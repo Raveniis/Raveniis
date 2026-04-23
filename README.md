@@ -5,7 +5,7 @@ PQAS | Aspiring Full-Stack Developer
 ## 🌐 Portfolio
 
 <p>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://raveniis.github.io/Portfolio/" target="_blank">
     🔗 Visit my portfolio
   </a>
 </p>
